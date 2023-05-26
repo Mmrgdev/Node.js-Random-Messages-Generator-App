@@ -1,4 +1,4 @@
-Node.js Random Messages Generator App
+##Node.js Random Messages Generator App
 
 This application allows you to generate a random message about your future based on your sign, luck and advice.
 
